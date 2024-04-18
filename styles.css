@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+
+.lista {
+    height: 700px;
+    overflow: auto;
+    border: 3px solid #de096f;
+}
+
+.lista__tarea {
+    width: 300px;
+    height: 150px;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    background-color: #1fc4de;
+    color: white;
+}
+
+.lista__tarea:hover {
+    background-color: #5b888f;
+}
+
+.lista__tarea--terminada {
+    border: 3px solid #de096f;
+}
+
+.lista__tarea--pendiente {
+    border: 3px solid #dec91f;
+}
