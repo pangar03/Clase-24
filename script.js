@@ -38,3 +38,15 @@ const render = async () => {
 };
 
 document.addEventListener("DOMContentLoaded", render);
+
+// Esto es un comentario especial para poder realizar un commit, si estas leyendo esto, por favor ignora este comentario. Gracias.
+// Decidiste seguir leyendo el comentario, debes tener mucho tiempo libre.
+// En serio, no hay nada interesante aquí.
+// ¿Por qué sigues leyendo?
+// ¿No tienes nada mejor que hacer?
+// ¿No tienes hambre?
+// ¿No tienes sueño?
+// ¿No tienes que estudiar?
+// ¿No tienes que trabajar?
+// ¿No tienes que hacer nada?
+// Curiosamente todas las lineas anteriores las sugirió copilot
